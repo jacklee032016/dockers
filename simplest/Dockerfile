@@ -1,5 +1,5 @@
 # this is simplest docker file
-# Jack Lee, July 28,208
+# Jack Lee, July 28,2018
 
 FROM scratch
 #FROM nickcis/fedora-32
